@@ -1,0 +1,8 @@
+node_modules
+.vscode
+src/
+bun.lock
+tsconfig.json
+*.vsix
+out/**/*.map
+.gitignore
