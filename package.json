@@ -2,7 +2,7 @@
     "name": "loc-rate-tracker",
     "displayName": "LOC Rate Tracker",
     "description": "Tracks lines of code and multiplies them by a user-defined rate.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "license": "MIT",
     "publisher": "awakened-sudo",
     "repository": {
